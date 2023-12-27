@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    /* display: flex;
+    align-items: end; */
+    height: 100vh;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 80px;
+    display: flex;
+    justify-content: center;
+}
+#left{
+    width: 60%;
+    margin-bottom: 0;
+    display: flex;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    margin: 0;
+    display: block;
+    padding: 2px;
+    color: aliceblue;
+}
+
+h3{
+    color: white;
+    margin-top: 0;
+}
+img{
+    width: 600px;
+    height: 200px;
+    padding-left: 450px;
+    padding-top: 200px;
+}
